@@ -31,6 +31,7 @@ about:
   # Had no home page. So pointed it to PyPI.
   home: https://pypi.python.org/pypi/ordereddict
   license: MIT
+  license_file: LICENSE
   summary: A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6.
 
 extra:
